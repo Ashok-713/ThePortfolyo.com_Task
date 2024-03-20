@@ -1,2 +1,1 @@
-# ThePortfolyo.com_Task
- Internship Task Assessment: Transforming Static Portfolio into Dynamic
+Run from this link : https://prabhatranjan-27082002.github.io/portfolio/
